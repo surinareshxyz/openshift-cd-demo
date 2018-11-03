@@ -1,5 +1,5 @@
 
-hiiiiiiiiii
+hello
 *For other versions of OpenShift, follow the instructions in the corresponding branch e.g. ocp-3.11, ocp-3.10, etc
 
 # CI/CD Demo - OpenShift Container Platform 3.11
